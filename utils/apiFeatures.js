@@ -52,6 +52,11 @@ class APIFeatures {
     this.query = this.query.skip(skip).limit(limit);
     return this;
   }
+
+  populate(info){
+    this.query=this.query.populate(info);
+    return this;
+  }
 }
 
 module.exports = APIFeatures;
