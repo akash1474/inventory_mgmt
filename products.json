@@ -1,0 +1,190 @@
+{
+	"_id": {
+		"$oid": "653a66cb92d42d9010a39e56"
+	},
+	"name": "Cleani Plus",
+	"category": {
+		"$oid": "653a4acff1e0efe9bcbd6a15"
+	},
+	"price": {
+		"buy": 74,
+		"sell": 98
+	},
+	"unit": "unit",
+	"stock_count": 232,
+	"createdAt": {
+		"$date": "2023-10-26T13:14:38.583Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "653a66e892d42d9010a39e58"
+	},
+	"name": "HeadnShoulders",
+	"category": {
+		"$oid": "653a4acff1e0efe9bcbd6a15"
+	},
+	"price": {
+		"buy": 155,
+		"sell": 190
+	},
+	"unit": "kilogram",
+	"stock_count": 890,
+	"createdAt": {
+		"$date": "2023-10-26T13:14:38.583Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "653a707f3e3a45f4e1ee20cd"
+	},
+	"name": "Daal",
+	"category": {
+		"$oid": "653a4b21f1e0efe9bcbd6a24"
+	},
+	"price": {
+		"buy": 40,
+		"sell": 48
+	},
+	"unit": "kilogram",
+	"stock_count": 488,
+	"createdAt": {
+		"$date": "2023-10-26T13:24:46.283Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "653a8ddca72a8e96c06eca8b"
+	},
+	"name": "Mari Gold",
+	"category": {
+		"$oid": "653a4adbf1e0efe9bcbd6a19"
+	},
+	"price": {
+		"buy": 7,
+		"sell": 10
+	},
+	"unit": "unit",
+	"stock_count": 785,
+	"createdAt": {
+		"$date": "2023-10-26T14:23:03.312Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "653e8843c4b1e44e66f1d91d"
+	},
+	"name": "Oreo",
+	"category": {
+		"$oid": "653a4adbf1e0efe9bcbd6a19"
+	},
+	"price": {
+		"buy": 8,
+		"sell": 10
+	},
+	"unit": "unit",
+	"stock_count": 500,
+	"createdAt": {
+		"$date": "2023-10-29T16:24:33.21Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "653e8862c4b1e44e66f1d925"
+	},
+	"name": "Fruti",
+	"category": {
+		"$oid": "653a4ae1f1e0efe9bcbd6a1b"
+	},
+	"price": {
+		"buy": 35,
+		"sell": 40
+	},
+	"unit": "unit",
+	"stock_count": 200,
+	"createdAt": {
+		"$date": "2023-10-29T16:24:33.21Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "653e8882c4b1e44e66f1d92d"
+	},
+	"name": "Basmati Rice",
+	"category": {
+		"$oid": "653a4ac8f1e0efe9bcbd6a13"
+	},
+	"price": {
+		"buy": 42,
+		"sell": 60
+	},
+	"unit": "kilogram",
+	"stock_count": 1000,
+	"createdAt": {
+		"$date": "2023-10-29T16:24:33.21Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "653e88a2c4b1e44e66f1d935"
+	},
+	"name": "Cinthol",
+	"category": {
+		"$oid": "653a4ad4f1e0efe9bcbd6a17"
+	},
+	"price": {
+		"buy": 32,
+		"sell": 40
+	},
+	"unit": "unit",
+	"stock_count": 150,
+	"createdAt": {
+		"$date": "2023-10-29T16:24:33.21Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "653e88b3c4b1e44e66f1d93d"
+	},
+	"name": "Dettol",
+	"category": {
+		"$oid": "653a4ad4f1e0efe9bcbd6a17"
+	},
+	"price": {
+		"buy": 8,
+		"sell": 10
+	},
+	"unit": "unit",
+	"stock_count": 125,
+	"createdAt": {
+		"$date": "2023-10-29T16:24:33.21Z"
+	},
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "653e88d1c4b1e44e66f1d945"
+	},
+	"name": "Coca Cola",
+	"category": {
+		"$oid": "653a4ae1f1e0efe9bcbd6a1b"
+	},
+	"price": {
+		"buy": 45,
+		"sell": 52
+	},
+	"unit": "unit",
+	"stock_count": 265,
+	"createdAt": {
+		"$date": "2023-10-29T16:24:33.21Z"
+	},
+	"__v": 0
+}

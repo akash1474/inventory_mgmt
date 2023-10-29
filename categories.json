@@ -1,0 +1,63 @@
+{
+	"_id": {
+		"$oid": "653a4ac8f1e0efe9bcbd6a13"
+	},
+	"name": "rice",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "653a4acff1e0efe9bcbd6a15"
+	},
+	"name": "shampoo",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "653a4ad4f1e0efe9bcbd6a17"
+	},
+	"name": "soap",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "653a4adbf1e0efe9bcbd6a19"
+	},
+	"name": "biscuit",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "653a4ae1f1e0efe9bcbd6a1b"
+	},
+	"name": "soft drink",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "653a4aebf1e0efe9bcbd6a1d"
+	},
+	"name": "handwash",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "653a4b07f1e0efe9bcbd6a20"
+	},
+	"name": "oil",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "653a4b21f1e0efe9bcbd6a24"
+	},
+	"name": "grains",
+	"__v": 0
+}
+{
+	"_id": {
+		"$oid": "653a7ae4a72a8e96c06ec9eb"
+	},
+	"name": "biscuits",
+	"__v": 0
+}
